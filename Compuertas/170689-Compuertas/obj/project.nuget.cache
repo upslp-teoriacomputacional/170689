@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YK/InAEdy6kZIlGCbfKR1jyhzsLEL7bXMvCed6S222yfD1HauYryBpj+naGjEdTdIrMRaBQNDM5zGGE0jDghHA==",
+  "success": true,
+  "projectFilePath": "D:\\Documentos\\Teoria Computacional\\170689\\Compuertas\\170689-Compuertas\\170689-Compuertas.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Camila\\.nuget\\packages\\fsharp.core\\4.7.2\\fsharp.core.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}
