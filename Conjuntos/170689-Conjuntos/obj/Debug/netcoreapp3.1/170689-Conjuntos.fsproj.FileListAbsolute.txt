@@ -1,0 +1,8 @@
+d:\Documentos\Teoria Computacional\170689\Conjuntos\170689-Conjuntos\bin\Debug\netcoreapp3.1\170689-Conjuntos.exe
+d:\Documentos\Teoria Computacional\170689\Conjuntos\170689-Conjuntos\obj\Debug\netcoreapp3.1\170689-Conjuntos.AssemblyInfoInputs.cache
+d:\Documentos\Teoria Computacional\170689\Conjuntos\170689-Conjuntos\obj\Debug\netcoreapp3.1\170689-Conjuntos.AssemblyInfo.fs
+D:\Documentos\Teoria Computacional\170689\Conjuntos\170689-Conjuntos\bin\Debug\netcoreapp3.1\170689-Conjuntos.deps.json
+D:\Documentos\Teoria Computacional\170689\Conjuntos\170689-Conjuntos\bin\Debug\netcoreapp3.1\170689-Conjuntos.runtimeconfig.json
+D:\Documentos\Teoria Computacional\170689\Conjuntos\170689-Conjuntos\bin\Debug\netcoreapp3.1\170689-Conjuntos.runtimeconfig.dev.json
+D:\Documentos\Teoria Computacional\170689\Conjuntos\170689-Conjuntos\obj\Debug\netcoreapp3.1\170689-Conjuntos.genruntimeconfig.cache
+d:\Documentos\Teoria Computacional\170689\Conjuntos\170689-Conjuntos\obj\Debug\netcoreapp3.1\170689-Conjuntos.fsproj.CoreCompileInputs.cache
