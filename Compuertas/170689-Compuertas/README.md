@@ -9,7 +9,7 @@ Para poder utiliar el comando or utilizaremos ||
 Para poder utilizar el comando not utilizaremos not 
 Para poder utilizar el comando xor utilizaremos el conjunto de varios comandos (x||y) && not (x && y)
 
-#Problemas Presentados
+# Problemas Presentados
 Una vez que ya conocia mas el lenguaje F# me resulto mas facil poder crear las iteraciones e ingresar los operadores 
 logicos. El xor es el unico que no se encontraba como tal, sino que se tenia que hacer un conjunto de los operadores
 anteriores para poder hacerlo.
