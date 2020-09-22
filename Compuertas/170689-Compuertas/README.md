@@ -5,8 +5,11 @@ operador logico correspondiente.
 
 # Comandos
 Para poder utilizar el comando and utilizaremos &&
+
 Para poder utiliar el comando or utilizaremos ||
+
 Para poder utilizar el comando not utilizaremos not 
+
 Para poder utilizar el comando xor utilizaremos el conjunto de varios comandos (x||y) && not (x && y)
 
 # Problemas Presentados
