@@ -26,7 +26,6 @@ let main argv =
         fin <- ""
         let mutable digito = "[0-9]"
         let mutable operador = "(\+|\-|\*|\/)"
-        let mutable x:char = 'e'
 
         //Hacemos la comparación para saber si es digito o caracter 
         if Regex.IsMatch(character, digito) then
