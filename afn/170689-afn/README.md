@@ -3,7 +3,7 @@ El programa pide una cadena de entrada. Como es un automtata finito no determini
 
 Esto se realizo con ayuda de funciones y las Expresiones Regulares
 
-Ademas de utilizar un for para poder recorrer la cadena e ir validando caracter por caracter.
+Ademas de utilizar un ciclo for para poder recorrer la cadena e ir validando caracter por caracter.
 
 Finalmente se tuvo que reducir la tabla de transiciones debido a que habia redundancia en la que se realizo primero.
 
