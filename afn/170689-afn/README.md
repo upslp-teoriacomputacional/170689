@@ -25,5 +25,4 @@ Console.ReadLine() la cual permite ingresar desde la consola y poder leer la cad
 En F# cuando se declara una variable no es posible volver a cambiar su valor en el programa. Es por eso que se utiliza el 
 comando "mutable" la cual ayuda a que se pueda cambiar
 
-En F# en las listas no podemos combinar numeros con caracteres. Es por eso que se cambio la letra E por el numero 6 y la 
-letra A por el 7, asi ya podemos evaluar con numeros.
+En F# en las listas no podemos combinar numeros con caracteres. Es por eso que se cambio la letra E por el numero 6, asi ya podemos evaluar con numeros.
