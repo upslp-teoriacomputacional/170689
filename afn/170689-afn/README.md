@@ -5,7 +5,7 @@ Esto se realizo con ayuda de funciones y las Expresiones Regulares
 
 Ademas de utilizar un for para poder recorrer la cadena e ir validando caracter por caracter.
 
-Finalmente se tuvo reducir la tabla de transiciones debido a que habia redundancia en la que se realizo primero.
+Finalmente se tuvo que reducir la tabla de transiciones debido a que habia redundancia en la que se realizo primero.
 
 # Comandos para ejecutar las funciones
 Algunos de los comandos que se utilizaron fueron:
